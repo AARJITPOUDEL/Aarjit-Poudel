@@ -1,4 +1,4 @@
-/*  import google fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
 .social-icon{
@@ -20,7 +20,7 @@ html{
 
 
 
-* custom scroll bar */
+
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -35,7 +35,7 @@ html{
     background: #555;
 }
 
-/* all similar content styling codes */
+
 section{
     padding: 100px 0;
 }
@@ -562,7 +562,7 @@ footer span a:hover{
 }
 
 
-/* responsive media query start */
+
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
